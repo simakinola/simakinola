@@ -6,5 +6,6 @@
 - 🤔 I’m looking for help with NodeJs
 - 💬 Ask me about Solidity Syntax
 - 📫 How to reach me: @simakinola on Insta
-- ⚡ Fun fact: I love travelling, meeting new people and learning new languages 
+- ⚡ Fun fact: I'm a professional footballer & I speak 4 languages
+- 
 

@@ -7,5 +7,5 @@
 - 💬 Ask me about Solidity Syntax
 - 📫 How to reach me: @simakinola on Insta
 - ⚡ Fun fact: I'm a professional footballer & I speak 4 languages
-- 
+
 
